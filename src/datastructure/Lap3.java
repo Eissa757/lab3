@@ -7,7 +7,7 @@ package datastructure;
 
 /**
  *
- * @author Hesham
+ * @author Eissa
  */
 public class Lap3 {
     
